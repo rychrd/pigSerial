@@ -1,4 +1,4 @@
-
+// serial command strings are for an Optoma projector - power & picture mute control
 #include "ofApp.h"
 
 //--------------------------------------------------------------
