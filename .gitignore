@@ -1,0 +1,18 @@
+# Compiled source
+*.o
+*.so
+bin/*
+obj/*
+
+# MakeFiles 
+
+Makefile
+config.make
+addons.make
+
+# Backups
+*/._*
+
+# project
+*.qbs
+
